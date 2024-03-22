@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T15:43:27.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="ONnuCN6ywHtvF5ugIqqn" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T15:43:40.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="SqMsmNMCbRN6rLuoof5-" version="24.0.7" type="github">
   <diagram name="Cloud Connectivity" id="WKU88_NRlp5oghHVTHNe">
     <mxGraphModel dx="927" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="qfVMbebjgHPsn-mblnon-7" value="Halsey" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="qfVMbebjgHPsn-mblnon-1" vertex="1">
           <mxGeometry x="420" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qfVMbebjgHPsn-mblnon-8" value="Plaza" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="qfVMbebjgHPsn-mblnon-1" vertex="1">
+        <mxCell id="qfVMbebjgHPsn-mblnon-8" value="NJ100" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="qfVMbebjgHPsn-mblnon-1" vertex="1">
           <mxGeometry x="620" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qfVMbebjgHPsn-mblnon-9" value="Dallas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="qfVMbebjgHPsn-mblnon-1" vertex="1">
