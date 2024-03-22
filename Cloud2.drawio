@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T15:44:31.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="e7PI1ySdG1H2dcuKw7zz" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T15:46:44.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="iJOVy-4WBYa8kzkD8t8x" version="24.0.7" type="github">
   <diagram name="Cloud Connectivity" id="WKU88_NRlp5oghHVTHNe">
     <mxGraphModel dx="927" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,10 +16,20 @@
             <mxPoint x="670.9957287525381" y="466.564271247462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CYOvtOAaMx3b3kIMPw8f-1" value="1g" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5C80HfpC81GCH5MhGB5B-5">
+          <mxGeometry x="0.0594" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5C80HfpC81GCH5MhGB5B-6" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#33FFFF;fillColor=#FF0000;exitX=0.465;exitY=0.129;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitPerimeter=0;" parent="qfVMbebjgHPsn-mblnon-1" source="qfVMbebjgHPsn-mblnon-12" target="5C80HfpC81GCH5MhGB5B-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="749.9957287525381" y="569.995728752538" as="sourcePoint" />
             <mxPoint x="750.9957287525381" y="506.564271247462" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYOvtOAaMx3b3kIMPw8f-0" value="1g" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5C80HfpC81GCH5MhGB5B-6">
+          <mxGeometry x="0.0312" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qfVMbebjgHPsn-mblnon-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0.125;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FF0000;strokeColor=#3399FF;strokeWidth=2;exitPerimeter=0;" parent="qfVMbebjgHPsn-mblnon-1" source="qfVMbebjgHPsn-mblnon-10" edge="1">
